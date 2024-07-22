@@ -15,8 +15,8 @@ step 4 : `npm start` to start frontend
 
 ## Functionalities
 
-# Authentication
-# Follows Management - Follow , Unfollow
-# File upload and Create Post
-# My feed and explore to see posts
-# Like Dislike
+- Authentication
+- Follows Management - Follow , Unfollow
+- File upload and Create Post
+- My feed and explore to see posts
+- Like Dislike
